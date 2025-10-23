@@ -20,8 +20,7 @@ Ao final do projeto, o aluno deverá ser capaz de:
 
 Contexto do Projeto
 
-Vocês foram contratados por uma startup para criar um protótipo de Painel de Usuá-
-rios.
+Vocês foram contratados por uma startup para criar um protótipo de Painel de Usuários.
 
 Esse painel será usado pelo time de Recursos Humanos para cadastrar e visualizar
 informações básicas de colaboradores da empresa.
