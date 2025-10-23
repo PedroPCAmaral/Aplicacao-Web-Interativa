@@ -54,8 +54,7 @@ o Cargo
 o Botão “Cadastrar Usuário”
 • Campo de busca (input de texto).
 
-• Área principal (<section id="lista-usuarios">) onde os cards serão exibidos di-
-namicamente.
+• Área principal (<section id="lista-usuarios">) onde os cards serão exibidos dinamicamente.
 
 • Rodapé com os créditos do grupo.
 estilo.css
