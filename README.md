@@ -103,14 +103,4 @@ Parte 2
 3. Testes, refinamento visual e finalização.
 4. Entrega.
 
-Critérios de Avaliação
-Critério Nota
-Estrutura e organização do projeto 2,0
-Funcionalidade e usabilidade 3,0
-Aplicação dos conceitos de JS e DOM 3,0
-Estilo visual e criatividade 1,0
-Boas práticas e clareza de código 1,0
 
-Entrega
-• O grupo deverá enviar um arquivo .zip com a estrutura completa do projeto.
-• O projeto deve funcionar offline (sem bibliotecas externas).
